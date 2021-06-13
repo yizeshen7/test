@@ -40,10 +40,7 @@
     --btn-default-hover-border-color: #666;
   }
   img {
-    opacity: 0.75;
-  }
-  img:hover {
-    opacity: 0.9;
+    opacity: 0.8;
   }
 }
 html {
@@ -989,8 +986,8 @@ pre .javascript .function {
   padding: 0 10px;
 }
 .headband {
-  background: #222;
-  height: 3px;
+  background: #ddd;
+  height: 0px;
 }
 .site-meta {
   flex-grow: 1;
@@ -1196,7 +1193,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c15e1a;
+  background: #90f7b1;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1555,11 +1552,11 @@ pre .javascript .function {
 }
 .post-body .image-caption,
 .post-body .figure .caption {
+  display: block;
   color: #999;
-  font-size: 0.875em;
-  font-weight: bold;
+  font-size: 0.75em;
   line-height: 1;
-  margin: -20px auto 15px;
+  margin: -15px auto 15px;
   text-align: center;
 }
 .post-sticky-flag {
