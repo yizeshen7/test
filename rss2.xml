@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>By Yize</title>
+    <link>https://github.com/yizeshen7/yizeshen7.github.io/</link>
+    
+    <image>
+      <url>https://github.com/yizeshen7/yizeshen7.github.io/icon.png</url>
+      <title>By Yize</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/</link>
+    </image>
+    
+    <atom:link href="https://github.com/yizeshen7/yizeshen7.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Testing blog, welcome!</description>
+    <pubDate>Fri, 18 Jun 2021 02:16:36 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Place Holder</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20211229/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20211229/</guid>
+      <pubDate>Wed, 29 Dec 2021 08:00:00 GMT</pubDate>
+      
+      <description>Yes this really is a placeholder, nothing to see here. Planning on using this post to see where the limit of the post is at.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20211229/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Capsule Wardrobe</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20210614/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20210614/</guid>
+      <pubDate>Mon, 14 Jun 2021 07:00:00 GMT</pubDate>
+      
+      <description>Started trying out a tool called Notion as my intern started, thuoght this was an intersting usage of it :D</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20210614/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Why Not [Insert Popular Platform]?</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20210517/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20210517/</guid>
+      <pubDate>Mon, 17 May 2021 07:00:00 GMT</pubDate>
+      
+      <description>DON&#39;T ASK ME THIS I DON&#39;T KNOW</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20210517/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Figma Vector Network</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20210505/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20210505/</guid>
+      <pubDate>Wed, 05 May 2021 07:00:00 GMT</pubDate>
+      
+      <description>Figma Vector Network</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20210505/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Camping at Lake Perris</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20210322/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20210322/</guid>
+      <pubDate>Mon, 22 Mar 2021 07:00:00 GMT</pubDate>
+      
+      <description>Taking a camping trip with highschool friends :D</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20210322/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Teaching Assistant and Everything Else</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20201210/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20201210/</guid>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 GMT</pubDate>
+      
+      <description>Becoming a TA was much more than just teaching materials, want to put all the random things regarding being a teaching assitant here</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20201210/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Teaching Assistant and Recitation</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20201118/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20201118/</guid>
+      <pubDate>Wed, 18 Nov 2020 08:00:00 GMT</pubDate>
+      
+      <description>Reflecting a bit on teaching a recitation, interacting with students, and learning from other recitation TAs.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20201118/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>15-112 Simulator</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20200429/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20200429/</guid>
+      <pubDate>Wed, 29 Apr 2020 07:00:00 GMT</pubDate>
+      
+      <description>Knowing little about coding coming into the University, I didn&#39;t expect myself to have this fun creating something I had in mind. It was also, one of the turning point for me I would say? As it setted me up for things I never thought would be possible for me.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20200429/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Trip to China</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20191220/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20191220/</guid>
+      <pubDate>Fri, 20 Dec 2019 08:00:00 GMT</pubDate>
+      
+      <description>Second time being back to China, thought this would be a place for me to talk about people I have met, and just some random thoughts relating to my life.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20191220/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>High School Graduation</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20190612/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20190612/</guid>
+      <pubDate>Wed, 12 Jun 2019 07:00:00 GMT</pubDate>
+      
+      <description>Highschool graduation at Yorba Linda High School, some thoughts.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20190612/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Trip to Seattle</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20180620/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20180620/</guid>
+      <pubDate>Tue, 26 Jun 2018 07:00:00 GMT</pubDate>
+      
+      <description>First time visiting Seattle, also the first trip I planned completely on my own, some reflections, some thoughts, and things I wish I would have known before the trip.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20180620/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Wofie, Lizzy, and Ares</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20180318/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20180318/</guid>
+      <pubDate>Sun, 18 Mar 2018 07:00:00 GMT</pubDate>
+      
+      <description>Whenever I talk about my host family, these three puppies are one of the first thing that came to my mind. Not that they played that important of a role, but a sense of consistancy was something that always kept them in my mind.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20180318/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://github.com/yizeshen7/yizeshen7.github.io/20000908/</link>
+      <guid>https://github.com/yizeshen7/yizeshen7.github.io/20000908/</guid>
+      <pubDate>Fri, 08 Sep 2000 07:00:00 GMT</pubDate>
+      
+      <description>Incase you are wondering, no I didn&#39;t write a blog post the day I was born lol. Want to use this post to talk a bit about who I am, along with my plans for this website.</description>
+      
+      
+      
+      
+      
+      
+      <comments>https://github.com/yizeshen7/yizeshen7.github.io/20000908/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
