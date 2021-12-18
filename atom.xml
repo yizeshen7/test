@@ -6,7 +6,7 @@
   <link href="https://yize.io/atom.xml" rel="self"/>
   
   <link href="https://yize.io/"/>
-  <updated>2021-06-18T02:16:36.910Z</updated>
+  <updated>2021-12-18T16:41:54.049Z</updated>
   <id>https://yize.io/</id>
   
   <author>
@@ -21,10 +21,31 @@
     <link href="https://yize.io/20211229/"/>
     <id>https://yize.io/20211229/</id>
     <published>2021-12-29T08:00:00.000Z</published>
-    <updated>2021-06-18T02:16:36.910Z</updated>
+    <updated>2021-12-18T16:41:54.049Z</updated>
     
     
     <summary type="html">Yes this really is a placeholder, nothing to see here. Planning on using this post to see where the limit of the post is at.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://yize.io/test/"/>
+    <id>https://yize.io/test/</id>
+    <published>2021-12-18T08:00:00.000Z</published>
+    <updated>2021-12-18T16:57:38.049Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
     
     
     
@@ -186,7 +207,7 @@
     <link href="https://yize.io/20180318/"/>
     <id>https://yize.io/20180318/</id>
     <published>2018-03-18T07:00:00.000Z</published>
-    <updated>2021-06-17T21:52:30.413Z</updated>
+    <updated>2021-12-18T16:41:31.656Z</updated>
     
     
     <summary type="html">Whenever I talk about my host family, these three puppies are one of the first thing that came to my mind. Not that they played that important of a role, but a sense of consistancy was something that always kept them in my mind.</summary>
