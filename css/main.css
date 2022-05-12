@@ -44,8 +44,38 @@
   }
 }
 @font-face {
-  font-family: 'LXGW Bright';
+  font-family: 'LXGW Bright Regular';
   src: url("../fonts/LXGWBright-Regular.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LXGW Bright Italic';
+  src: url("../fonts/LXGWBright-Italic.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LXGW Bright Medium';
+  src: url("../fonts/LXGWBright-Medium.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LXGW Bright MediumItalic';
+  src: url("../fonts/LXGWBright-MediumItalic.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LXGW Bright SemiLight';
+  src: url("../fonts/LXGWBright-SemiLight.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LXGW Bright SemiLightItalic';
+  src: url("../fonts/LXGWBright-SemiLightItalic.woff") format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -1199,7 +1229,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #98ffff;
+  background: #25ff46;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
