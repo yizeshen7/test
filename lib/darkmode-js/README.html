@@ -8,7 +8,7 @@
 <li>Automatically shows Darkmode if the OS preferred theme is dark (if the browsers support <code>prefers-color-scheme</code>)</li>
 <li>Can be used programmatically without widget</li>
 </ul>
-<h2 id="✨-Demo"><a href="#✨-Demo" class="headerlink" title="✨ Demo"></a>✨ Demo</h2><p>Check out the demo in these websites: </p>
+<h2 id="✨-Demo"><a href="#✨-Demo" class="headerlink" title="✨ Demo"></a>✨ Demo</h2><p>Check out the demo in these websites:</p>
 <ul>
 <li><a href="https://darkmodejs.learn.uno/">https://darkmodejs.learn.uno</a></li>
 <li><a href="https://tradivegan.com/">https://tradivegan.com</a> (with custom label)</li>
@@ -50,21 +50,21 @@ new Darkmode().showWidget();
   left: &#39;32px&#39;, // default: &#39;unset&#39;
   time: &#39;0.5s&#39;, // default: &#39;0.3s&#39;
   mixColor: &#39;#fff&#39;, // default: &#39;#fff&#39;
-  backgroundColor: &#39;#fff&#39;,  // default: &#39;#fff&#39;
-  buttonColorDark: &#39;#100f2c&#39;,  // default: &#39;#100f2c&#39;
+  backgroundColor: &#39;#fff&#39;, // default: &#39;#fff&#39;
+  buttonColorDark: &#39;#100f2c&#39;, // default: &#39;#100f2c&#39;
   buttonColorLight: &#39;#fff&#39;, // default: &#39;#fff&#39;
   saveInCookies: false, // default: true,
   label: &#39;🌓&#39;, // default: &#39;&#39;
   autoMatchOsTheme: true // default: true
-}
+};
 
 const darkmode = new Darkmode(options);
 darkmode.showWidget();
 </code></pre>
 <h2 id="▶️-Methods"><a href="#▶️-Methods" class="headerlink" title="▶️ Methods"></a>▶️ Methods</h2><p>If you don’t want to show the widget and enable/disable Darkmode programatically you can use the method <code>toggle()</code>. You can also check if the Dark Mode is activated with the method <code>isActivated()</code>. See them in action in the following example:</p>
-<pre><code class="javascript">const darkmode =  new Darkmode();
+<pre><code class="javascript">const darkmode = new Darkmode();
 darkmode.toggle();
-console.log(darkmode.isActivated()) // will return true
+console.log(darkmode.isActivated()); // will return true
 </code></pre>
 <h2 id="Override-style"><a href="#Override-style" class="headerlink" title="Override style"></a>Override style</h2><ul>
 <li>A CSS class <code>darkmode--activated</code> is added to the body tag when the darkmode is activated. You can take advantage of it to override the style and have a custom style</li>
@@ -72,7 +72,8 @@ console.log(darkmode.isActivated()) // will return true
 <li>You can also add this style: <code>isolation: isolate;</code> in your CSS, this will also ignore the darkmode.</li>
 <li>It is also possible to revert the Dark Mode with this style <code>mix-blend-mode: difference;</code></li>
 </ul>
-<h3 id="Examples"><a href="#Examples" class="headerlink" title="Examples"></a>Examples</h3><pre><code class="css">.darkmode--activated p, .darkmode--activated li {
+<h3 id="Examples"><a href="#Examples" class="headerlink" title="Examples"></a>Examples</h3><pre><code class="css">.darkmode--activated p,
+.darkmode--activated li {
   color: #000;
 }
 
@@ -84,15 +85,16 @@ console.log(darkmode.isActivated()) // will return true
   mix-blend-mode: difference;
 }
 </code></pre>
-<pre><code class="html">&lt;span class=&quot;darkmode-ignore&quot;&gt;😬&lt;span&gt;
+<pre><code class="html">&lt;span class=&quot;darkmode-ignore&quot;&gt;😬&lt;span&gt;&lt;/span&gt;&lt;/span&gt;
 </code></pre>
 <h2 id="Debug"><a href="#Debug" class="headerlink" title="Debug"></a>Debug</h2><p>If it does not work you may have to add the following code, but this will invalidate the classes to override.</p>
-<pre><code class="css">.darkmode-layer, .darkmode-toggle {
+<pre><code class="css">.darkmode-layer,
+.darkmode-toggle {
   z-index: 500;
 }
 </code></pre>
 <h2 id="Browser-compatibility"><a href="#Browser-compatibility" class="headerlink" title="Browser compatibility"></a>Browser compatibility</h2><p>This library uses the CSS <code>mix-blend-mode: difference;</code> to provide the Dark Mode.<br>It may not be compatible with all the browsers. Therefore the widget has been hidden in Internet Explorer and Edge.<br>This library also uses <code>prefers-color-scheme: dark</code> to automatically enable the Dark Mode if the OS prefered theme is dark.</p>
-<p>Check the compatibility here: </p>
+<p>Check the compatibility here:</p>
 <ul>
 <li><a href="https://caniuse.com/#search=mix-blend-mode">https://caniuse.com/#search=mix-blend-mode</a></li>
 <li><a href="https://caniuse.com/#search=prefers-color-scheme">https://caniuse.com/#search=prefers-color-scheme</a> (to activate Dark Mode automatically)</li>
@@ -116,3 +118,4 @@ console.log(darkmode.isActivated()) // will return true
 <h2 id="📄-License"><a href="#📄-License" class="headerlink" title="📄 License"></a>📄 License</h2><p><a href="./LICENSE">MIT License</a></p>
 <p>Copyright (c) Sandoche Adittane</p>
 <!-- Badges -->
+
