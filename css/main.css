@@ -44,7 +44,7 @@
   }
 }
 @font-face {
-  font-family: 'LXGW Bright Regular';
+  font-family: 'LXGW Bright';
   src: url("../fonts/LXGWBright-Regular.woff") format('woff');
   font-weight: normal;
   font-style: normal;
@@ -1229,7 +1229,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #0aa80e;
+  background: #60ee42;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
